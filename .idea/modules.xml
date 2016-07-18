@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wildflyear.iml" filepath="$PROJECT_DIR$/wildflyear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear/wildflyear-ear.iml" filepath="$PROJECT_DIR$/ear/wildflyear-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb/wildflyear-ejb.iml" filepath="$PROJECT_DIR$/ejb/wildflyear-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/wildflyear-web.iml" filepath="$PROJECT_DIR$/web/wildflyear-web.iml" />
+    </modules>
+  </component>
+</project>
